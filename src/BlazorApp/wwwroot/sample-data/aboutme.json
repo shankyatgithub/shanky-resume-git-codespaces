@@ -1,9 +1,10 @@
 {
   "description": "I'm a Dev Lead working at SoftPro, Inc Raleigh. I enjoy learning new technologies, indian classical music and being outdoors with my family.",
   "skills": [
-    "C#",
     ".Net Core",
-    "Azure cloud services"
+    "C# Angular React Blazor",
+    "Azure cloud services",
+    "DevOps"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Bachelors in Electronics Engg and Maters in Computer Science and IT Security I continually look for new and better ways to make tech better for all."
 }
